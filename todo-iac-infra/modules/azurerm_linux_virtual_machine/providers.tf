@@ -23,5 +23,5 @@ terraform {
 }
 
 # az group create -n rg-terraform-backend -l Centralindia
-# az storage account create -n tfstatebackend123 -g rg-terraform-backend -l eastus --sku Standard_LRS
-# az storage container create --name tfstate --account-name tfstatebackend123
+# az storage account create -n tfstatebackend1235 -g rg-terraform-backend -l eastus --sku Standard_LRS
+# az storage container create --name tfstate --account-name tfstatebackend1235
